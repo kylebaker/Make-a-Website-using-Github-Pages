@@ -2,10 +2,10 @@
 
 ## What you'll need
 
--A Github account
--A domain
--An HTML page
--Patience
+- A Github account
+- A domain
+- An HTML page
+- Patience
 
 ## Begin with Github
 
