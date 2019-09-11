@@ -33,7 +33,30 @@ Once the Desktop Client is installed and you are logged into your account, you'l
 
 ![Clone menu](https://help.github.com/assets/images/help/desktop/clone-file-menu-windows.png)
 
-From there, you should see your repository titles `username/username.github.io`. For me, it'll be shown as `kylebaker/kylebaker.github.io`, select it and click "clone".
+From there, you should see your repository titled `username/username.github.io`. For me, it'll be shown as `kylebaker/kylebaker.github.io`, select it and click "clone".
 
 ![Clone Repository](https://help.github.com/assets/images/help/desktop/clone-a-repository-list-win.png)
 
+This will create a local instance of your repository on your local computer in `\Users\YourName\Documents\GitHub\`. Since I'm on Windows, I go to that location using the File Explorer. Once there you should see `username.github.io` folder, open that, and copy all files pertaining to you website here. 
+
+Once done, when you go back to GitHub Desktop, you should see your "changes" here. 
+
+![Changes](https://help.github.com/assets/images/help/desktop/getting-started-guide/viewing-changes.png)
+
+Here you'll want to make a comment on what you did. This helps track what changes you make over time. 
+
+![Comment](https://help.github.com/assets/images/help/desktop/getting-started-guide/commit-message.png)
+
+And click the "Commit to Master" button.
+
+![Commit](https://help.github.com/assets/images/help/desktop/getting-started-guide/click-commit-to-master.png)
+
+Once you have committed the changes to your repository, you now need to "push" the changes to origin, origin being GitHub online. This will actually upload what you just did to GitHub. 
+
+![Push](https://help.github.com/assets/images/help/desktop/getting-started-guide/push-to-origin.png)
+
+## Testing your site
+
+At this point, your website should be accessible to view in your browser as is. You'll want to type `http://username.github.io` replacing username with yours. If it works, the hardest part of this project is over. If it doesn't, either you'll need to wait for github to fully create your site, or an error occured and you'll need to adjust the files you just uploaded. 
+
+## Creating a Domain for your Site
