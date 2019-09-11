@@ -11,7 +11,7 @@
 
 A GitHub account is free. Once an account is made, hit the `+` button on the top right of the screen and make a new repository
 
-https://guides.github.com/features/pages/create-new-repo-button.png
+![Create Repo Button](https://guides.github.com/features/pages/create-new-repo-button.png)
 
 When you make a reposity, make sure to name it your username dot github dot io. Since my username is `kylebaker` my repository will be named `kylebaker.github.io`.
 
