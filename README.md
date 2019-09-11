@@ -15,7 +15,7 @@ A GitHub account is free. Once an account is made, hit the `+` button on the top
 
 When you make a reposity, make sure to name it your username dot github dot io. Since my username is `kylebaker` my repository will be named `kylebaker.github.io`.
 
-https://guides.github.com/features/pages/create-new-repo-screen.png
+![Crate Repository](https://guides.github.com/features/pages/create-new-repo-screen.png)
 
 ## Make an html page
 
